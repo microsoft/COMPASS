@@ -1,0 +1,23 @@
+name: compass
+channels:
+- pytorch
+dependencies:
+- python=3.7.9
+- pytorch=1.6
+- torchvision
+- matplotlib
+- cudatoolkit=10.2
+- conda-forge::cupy
+- numpy
+- scipy
+- psutil
+- opencv
+- joblib
+- pip
+- pip:
+  - tqdm
+  - opencv-python
+  - termcolor
+  - tensorboard
+  - python-dateutil
+  - visdom

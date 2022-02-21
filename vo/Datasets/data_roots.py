@@ -1,0 +1,1 @@
+FLOW_DR = {'kitti': {'local':   ['/compass_vo/data/kitti_flow', '/compass_vo/data/kitti_flow'],},}
