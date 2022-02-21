@@ -6,7 +6,6 @@
 *.pth
 *.cluster.local
 *tfevent*
-*.png
 *.pkl
 */tmp/
 process_data/data/
@@ -23,6 +22,5 @@ process_data/data/
 *notes.md
 *.pdf
 *.csv
-*.txt
 *.log
 *.json
