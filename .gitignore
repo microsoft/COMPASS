@@ -10,7 +10,7 @@
 *.pkl
 */tmp/
 process_data/data/
-!asset/*.png
+!assets/*.png
 #!asset/*/*.png
 #!asset/*/*/*.png
 *.nfs*
