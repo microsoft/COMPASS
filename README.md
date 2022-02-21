@@ -3,10 +3,10 @@
 This repository contains the PyTorch implementation of the COMPASS model proposed in our
 paper 
 
-[[COMPASS: Contrastive Multimodal Pretraining for Autonomous Systems (arxiv preprint)]](https://arxiv.org/pdf/2104.05418.pdf).<br>
+[COMPASS: Contrastive Multimodal Pretraining for Autonomous Systems](https://www.microsoft.com/en-us/research/uploads/prod/2022/02/COMPASS.pdf).<br>
 _Shuang Ma, Sai Vemprala, Wenshan Wang, Jayesh K. Gupta, Yale Song, Daniel McDuff, Ashish Kapoor_, 2022.
 
-Please visit our [blogpost](placeholder) for a summary on the idea and approach!
+Please visit our blogpost for a summary on the idea and approach!
 
 COMPASS aims to build general purpose representations for autonomous systems from multimodal observations. Given multimodal signals of spatial and temporal modalities M_s and M_m, respectively. COMPASS learns two factorized latent spaces, i.e., a motion pattern space O_m and a current state space O_s, using multimodal correspondence as the self-supervisory signal. 
 
