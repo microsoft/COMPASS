@@ -1,50 +1,51 @@
 {
-    "Registrations": [
-        {
-            "component": {
-                "type": "git",
-                "git": {
-                    "repositoryUrl": "https://github.com/TengdaHan/MemDPC",
-                    "commitHash": "d7dbbf0dc6ec4aa8ff9a5dc8c189d78f4e5e34a7"
-                }
-            }
-        },
-        {
-            "component": {
-                "type": "git",
-                "git": {
-                    "repositoryUrl": "https://github.com/SwinTransformer/Transformer-SSL",
-                    "commitHash": "4510de1f21ee6f9810a74494c254081dd8f2c383"
-                }
-            }
-        },
-        {
-            "component": {
-                "type": "git",
-                "git": {
-                    "repositoryUrl": "https://github.com/NVlabs/PWC-Net",
-                    "commitHash": "185b0e2beb45ad029bb66d818812f8dcc2aed9c6"
-                }
-            }
-        },
-        {
-            "component": {
-                "type": "git",
-                "git": {
-                    "repositoryUrl": "https://github.com/castacks/tartanvo",
-                    "commitHash": "de1d3c3b272c9cfb37380f86832f3143ee25f9b5"
-                }
-            }
-        },
-        {
-            "component": {
-                "type": "git",
-                "git": {
-                    "repositoryUrl": "https://github.com/kenshohara/3D-ResNets-PyTorch",
-                    "commitHash": "540a0ea1abaee379fa3651d4d5afbd2d667a1f49"
-                }
-            }
+  "$schema": "https://json.schemastore.org/component-detection-manifest.json",
+  "Registrations": [
+    {
+      "component": {
+        "type": "git",
+        "git": {
+          "repositoryUrl": "https://github.com/TengdaHan/MemDPC",
+          "commitHash": "d7dbbf0dc6ec4aa8ff9a5dc8c189d78f4e5e34a7"
         }
-    ],
-    "Version": 1
+      }
+    },
+    {
+      "component": {
+        "type": "git",
+        "git": {
+          "repositoryUrl": "https://github.com/SwinTransformer/Transformer-SSL",
+          "commitHash": "4510de1f21ee6f9810a74494c254081dd8f2c383"
+        }
+      }
+    },
+    {
+      "component": {
+        "type": "git",
+        "git": {
+          "repositoryUrl": "https://github.com/NVlabs/PWC-Net",
+          "commitHash": "185b0e2beb45ad029bb66d818812f8dcc2aed9c6"
+        }
+      }
+    },
+    {
+      "component": {
+        "type": "git",
+        "git": {
+          "repositoryUrl": "https://github.com/castacks/tartanvo",
+          "commitHash": "de1d3c3b272c9cfb37380f86832f3143ee25f9b5"
+        }
+      }
+    },
+    {
+      "component": {
+        "type": "git",
+        "git": {
+          "repositoryUrl": "https://github.com/kenshohara/3D-ResNets-PyTorch",
+          "commitHash": "540a0ea1abaee379fa3651d4d5afbd2d667a1f49"
+        }
+      }
+    }
+  ],
+  "Version": 1
 }
